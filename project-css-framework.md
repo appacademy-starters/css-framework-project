@@ -19,7 +19,7 @@ appealing components and help give you a stronger sense of web development.
 
 ## Phase 0:
 
-Download the repo here: (NEED TO CREATE STARTER REPO IN GITHUB!!!)
+Download the repo [here]. 
 
 ## Phase 1:
 
@@ -49,3 +49,5 @@ Try to add Media Queries to your project.
 [purecss]:https://purecss.io/
 
 [tailwind]: https://tailwindcss.com/
+
+[here]: https://github.com/appacademy-starters/css-framework-project
